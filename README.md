@@ -1,3 +1,3 @@
 # hello-world
 
-Test repo for LC-Git
+LC-Git Minitex teaching repository
