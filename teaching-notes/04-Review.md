@@ -2,7 +2,7 @@
 
 https://uwm-libraries.github.io/lc-git/04-review/index.html
 
-https://pad.carpentries.org/2022-09-12-minitex-online
+https://jamboard.google.com/d/19dL_esijZW5_t4cBb8iCFB1gLJO_wIgHbohNc8sWop4/viewer?pli=1
 
 **Before the episode starts**:
 Work with the host to assign learners and 1 facilitator each to no more than 5 breakout rooms
@@ -25,7 +25,7 @@ We're going to take some time to reinforce what you've already learned in smalle
 
 Each group will have about __ learners and one helper or instructor. You'll be in your group for about *15* minutes (depends on time)
 
-Paste instructions into the Etherpad and review out loud:
+Paste instructions into the Jamboard and review out loud:
 
 In your group:
 - You have two Git commands covered in the previous sections.

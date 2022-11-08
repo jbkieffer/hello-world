@@ -2,7 +2,7 @@
 
 https://uwm-libraries.github.io/lc-git/
 
-https://pad.carpentries.org/2022-09-12-minitex-online
+https://jamboard.google.com/d/19dL_esijZW5_t4cBb8iCFB1gLJO_wIgHbohNc8sWop4/viewer?pli=1
 
 ***************************************
 ### 11:40 for 15 minutes
@@ -33,7 +33,7 @@ If learners are interested:
 
 #### Stephen use cases
 
-Tell him doing this
+TBD
 
 ***************************************
 ### Questions

@@ -2,7 +2,7 @@
 
 https://uwm-libraries.github.io/lc-git/05-github-pages/index.html
 
-https://pad.carpentries.org/2022-09-12-minitex-online
+https://jamboard.google.com/d/19dL_esijZW5_t4cBb8iCFB1gLJO_wIgHbohNc8sWop4/viewer?pli=1
 
 ***************************************
 ### 10:55 for 45 minutes
@@ -51,7 +51,7 @@ Besides the advantages above:
 
 In this section we are focusing on publishing a new website on GitHub and contributing to a website that we don't have authorship access to.
 
-*To Etherpad*
+*To Jamboard*
 Lesson material from the Carpentries Lesson Development training focuses on using Issues, Labels, and Milestones in GitHub to plan and manage a collaborative project: https://carpentries.github.io/lesson-development-training/26-collaborating.html
 
 ***************************************
@@ -78,7 +78,7 @@ Any repository on GitHub can use GitHub pages. First, we need to turn it on:
 Now we can view our site. Since we didn't use a custom domain, our site is at:
 https://jbkieffer.github.io/hello-world/ 
 
-*to Etherpad*
+*to Jamboard*
 This is the standard pattern for a GitHub pages site using the default domain name:
 
   - https://
@@ -125,14 +125,14 @@ We are going to practice the workflow that a *Contributor* would use to suggest 
 This workflow is called fork/branch/pull-request, and it's a standard process for interacting with and contributing to open source projects.
 
 I'm going to demonstrate by contributing to Stephen's `hello-world` repository. You can follow along by contributing to my `hello-world` repository:
-https://jbkieffer.github.io/hello-world
+https://github.com/jbkieffer/hello-world
 
 *Paste jbk repo into Zoom chat*
 
 Here's some incentive for you to follow along - when you fork my `hello-world` repository, it will come with a copy of my teaching notes for this session.
 
 Let's open the repository we're going to contribute to in a new browser tab:
-https://srappel.github.io/hello-world
+https://github.com/srappel/hello-world
 
 #### Contribution scenario
 
@@ -158,7 +158,7 @@ First, I need to `fork`, or copy, Stephen's repository:
 
 Inside my copy of Stephen's repository, I can make those edits I spotted. For our workshop, I'm going to edit `index.md` and add a few more Markdown examples. To follow along, open your copy of my `index.md`
 
-*Paste Markdown resources into Etherpad*
+*Paste Markdown resources into Jamboard*
 Markdown resource: https://guides.github.com/features/mastering-markdown/
 
 - Click the pencil in the upper right to edit the file directly in GH
@@ -232,7 +232,10 @@ We can't see Stephen's repo, so I'm going to demo accepting a PR using my `hello
 - The entire process is visible in the history of the original repository
 - In a project where documenting contributions is important, GH is doing this for me in this history.
 
-*This process seems clumsy - why do it?*
+***************************************
+### Key points
+
+#### This process seems clumsy - why do it?
 
 - Transparency in project development
 - Unlimited undo in a group project
@@ -241,7 +244,7 @@ We can't see Stephen's repo, so I'm going to demo accepting a PR using my `hello
   - comments (commit messages and sometimes issues, although we didn't look at issues today - what are people thinking about the progress of the document; where do they want it to change or develop?)
   - sometimes a new copy of the document if things are going in a new direction (a branch, but unlike a Word doc, merging back into the original while keeping a robust record of everything that happened is a built-in function)
 
-*Into Etherpad*
+*Into Jamboard*
 Detailed instructions, with screenshots, for the process we just completed are at https://github.com/carpentries-incubator/swc_github_flow/blob/main/for_novice_contributors.md
 
 Additional lesson material on Pull Requests: https://carpentries-incubator.github.io/git-novice-branch-pr/10-pull-requests/
