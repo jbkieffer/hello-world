@@ -30,3 +30,7 @@ Make a horizontal rule
 ---
 
 Embed a link with [square brackets](https://daringfireball.net/projects/markdown/syntax)
+
+I want to add a quote:
+
+> This quote is very important information to be added to this repository.
